@@ -22,4 +22,22 @@ Fomos para a pagina de validação e aprovado vamos selecionar o botão criar:
 
 Então chegamos na página informando que a implantação foi concluída e onde selecionamos ir para o grupo de recursos:
 
+<img width="652" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/662c81c3-1143-443a-b659-0e0df69a9181">
+
+Nesse ponto fomos para a tela que demosntra que está tudo cero:
+
+<img width="896" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/88f70f18-7364-4fb8-bf31-81ed9c9d236f">
+
+
+Depois dessa etapa vamos para outro site- language.cognitive.azure.com, onde fizemos o login.
+Como primeiro passo preenchemos o formulario inicial:
+
+<img width="800" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/edd68194-c4fd-4033-a43b-71f6509ef60d">
+
+Feito o link voltamos para a tela para criar o recurso:
+
+<img width="770" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/e292e049-d94a-403e-938b-bb7a55e19dcf">
+
+Nessa tela selecionamos "classificação de texto" e "analise sentimentos e opniões minhas"
+
 
