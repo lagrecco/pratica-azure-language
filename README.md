@@ -34,10 +34,15 @@ Como primeiro passo preenchemos o formulario inicial:
 
 <img width="800" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/edd68194-c4fd-4033-a43b-71f6509ef60d">
 
-Feito o link voltamos para a tela para criar o recurso:
+Feito o link voltamos para a tela para criar o recurso.
+Nessa tela selecionamos "classificação de texto" e "analise sentimentos e opniões minhas":
 
-<img width="770" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/e292e049-d94a-403e-938b-bb7a55e19dcf">
+<img width="749" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/b6a69711-43d6-4d79-b524-7e024a304d11">
 
-Nessa tela selecionamos "classificação de texto" e "analise sentimentos e opniões minhas"
+E chegamos na página onde vamos praticar:
+
+<img width="782" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/311d09e7-1a67-41ef-9a82-818c524172db">
+
+Mudei a linguagem para o portugues (Brasil) e coloquei o texto que está na pasta inputs par a AI fazer a análise:
 
 
