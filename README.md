@@ -45,4 +45,22 @@ E chegamos na página onde vamos praticar:
 
 Mudei a linguagem para o portugues (Brasil) e coloquei o texto que está na pasta inputs par a AI fazer a análise:
 
+<img width="718" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/f9015e3d-46c5-40b7-b466-ad22864131a6">
+
+Agora os resultados:
+
+Fase 1:
+
+<img width="764" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/3af53694-4f7e-4777-90ab-2f3888b3b2f7">
+
+Fase 2:
+
+<img width="760" alt="image" src="https://github.com/lagrecco/pratica-azure-language/assets/161373094/02f997db-2938-4c6b-8ba0-948e9e60b3b6">
+
+A avaliação foi negativa em 100%.
+O que eu notei foi que mesmo a segunda parte do comentário sendo positiva a IA não entendeu assim, não sei se por causa da linguagem ser em portugues e ela não interpretou bem as palavras ou se mesmo tendo algo de positivo no comentário a IA não levou em consideração.
+
+Assim finalizamos mais um exercício prático e enviamos para a DIO.
+
+
 
